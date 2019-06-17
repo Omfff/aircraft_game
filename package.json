@@ -2,7 +2,7 @@
   "name": "droneworld",
   "version": "0.1.0",
   "private": true,
-  "homepage": ".",
+  "homepage": "https://omf2333.github.io/aircraft_game",
   "dependencies": {
     "@babel/core": "7.4.3",
     "@svgr/webpack": "4.1.0",
@@ -153,7 +153,7 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^1.1.0",
+    "gh-pages": "^1.2.0",
     "snazzy": "^7.0.0",
     "standard": "^10.0.3"
   },
