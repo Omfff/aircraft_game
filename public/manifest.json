@@ -1,6 +1,6 @@
 {
-  "short_name": "droneWorld",
-  "name": "Fly in a 3D world",
+  "short_name": "airplane game",
+  "name": "3D airplane game",
   "icons": [
     {
       "src": "favicon.ico",

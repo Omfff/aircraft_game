@@ -274,7 +274,7 @@ body {
     background: #fff;
     box-shadow: 10px 0px 15px 0px #fff;
     border-radius: 25px;
-    animation: load 4.85s linear;
+    animation: load 6s linear;
 }
 @keyframes load {
     0% {
