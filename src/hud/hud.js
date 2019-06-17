@@ -38,7 +38,6 @@ class HUD extends Component {
         }
         return Math.min(gunHeat, 1)
     }
-    // ??
     lockLevel () {
         if (targetsInSight.size === 0) {
             return Math.max(0, this.state.lockLevel - 0.02)

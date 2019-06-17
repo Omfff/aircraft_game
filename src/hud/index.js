@@ -40,7 +40,7 @@ const registerTarget = (msg, target) => {
     if (!hudElement.mounted) return
     // 屏幕坐标
     hudPosition = screenXYclamped(target.position)
-    // ??
+
     if (hudPosition.z > 1) {
       hudPosition.x = window.innerWidth - hudPosition.x
       hudPosition.y = window.innerHeight - 10
@@ -58,7 +58,6 @@ const registerTarget = (msg, target) => {
       targetVector2D.normalize().multiplyScalar(ZONE)
       //console.log(targetVector2D.length())
     }
-    // ??
     target.userData.hud.arrow.style.opacity = 0.8 * (1 - (ZONE - targetVector2D.length()) / 50)
     targetVector3D = camera.position.clone().sub(target.position)
     targetDistance3D = targetVector3D.length()
@@ -85,7 +84,7 @@ const registerTarget = (msg, target) => {
       if(targetDistance2D < FOCAL_SIZE*0.6) {
         targetsInSight.add(target)
       }
-      // ??
+
       if (!target.lockClock.running) target.lockClock.start()
     } else {
       targetsInSight.delete(target)
@@ -105,7 +104,7 @@ const registerTarget = (msg, target) => {
           )
         ))
       )
-      // ??
+
       target.gunHud = true
       // 敌机飞行朝向
       target.direction = {
