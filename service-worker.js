@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/aircraft_game/precache-manifest.8c3288d2bc3bd7284f85554a730ed326.js"
+  "/aircraft_game/precache-manifest.6f79ccda66642fa91c0cca0c772ca480.js"
 );
 
 self.addEventListener('message', (event) => {
