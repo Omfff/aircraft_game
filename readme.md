@@ -535,7 +535,7 @@ triggerSingleEmitter(smokeGroup, target, true)
   + 敌机移动方向
   + 锁定敌机
 
-![1560865148619](D:\STUDY\web技术\person_project\airplane-game\droneWorld-master-cc\droneWorld-master-cc\assets\1560865148619.png)
+![1560865148619](.\assets\1560865148619.png)
 
 #### 机枪温度
 
@@ -603,7 +603,7 @@ triggerSingleEmitter(smokeGroup, target, true)
 
 > ./src/controls/DeathController.js
 
-![1560865251155](D:\STUDY\web技术\person_project\airplane-game\droneWorld-master-cc\droneWorld-master-cc\assets\1560865251155.png)
+![1560865251155](.\assets\1560865251155.png)
 
 - 本机碰撞地形或下水(即本机高度小于水面高度)，导致爆炸死亡,触发` death()`函数。
 
