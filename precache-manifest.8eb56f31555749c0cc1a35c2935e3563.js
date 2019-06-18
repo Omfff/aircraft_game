@@ -4,11 +4,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/aircraft_game/16a4cfa169318b5b5303.worker.js"
   },
   {
-    "revision": "bbd8cdd7aa51d8c67f402ccbb81203f2",
+    "revision": "120a078f8273b7af08bf7efb01c07f1f",
     "url": "/aircraft_game/index.html"
   },
   {
-    "revision": "9e9a05e8806ad02cf311",
+    "revision": "ea576ea8d261c203e9da",
     "url": "/aircraft_game/static/css/main.6ba38414.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/aircraft_game/static/js/2.47668277.chunk.js"
   },
   {
-    "revision": "9e9a05e8806ad02cf311",
-    "url": "/aircraft_game/static/js/main.908e47d7.chunk.js"
+    "revision": "ea576ea8d261c203e9da",
+    "url": "/aircraft_game/static/js/main.6dd66c27.chunk.js"
   },
   {
     "revision": "f70b17e57bdda269f2b5",
