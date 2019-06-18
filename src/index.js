@@ -244,7 +244,7 @@ water.material.uniforms.tDepth.value = waterTarget.depthTexture
 
 water.up.set(0, 0, 1)
 // water.rotation.z = -Math.PI / 2
-water.position.z = 75
+water.position.z = 80
 water.material.uniforms.surface.value = water.position.z
 gui.__folders['SCENARIO'].add(water.position, 'z', 0, 200, 1)
 water.receiveShadow = true
@@ -305,7 +305,7 @@ let loops = [
   (timestamp, delta) => {
     if (camera.position.z < water.position.z) {
       // 飞行器进入水下时
-      PubSub.publish('x.drones.water.destory');
+      //PubSub.publish('x.drones.water.destory');
       underwaterPass.enabled = true
       wigglePass.enabled = true
       water.visible = false
