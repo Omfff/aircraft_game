@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dc44bed6-7dbf-451d-bb37-2715ebfce8d4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/hud/hud.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/hud/hud.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hud/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/hud/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/modules/Lensflare.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/modules/Lensflare.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/modules/Sky.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/modules/Sky.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/库.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/文档.md" beforeDir="false" />
-    </list>
+    <list default="true" id="dc44bed6-7dbf-451d-bb37-2715ebfce8d4" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -210,7 +203,7 @@
     <other-services-enabled>true</other-services-enabled>
     <auto-save>true</auto-save>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="230" />
     <option name="width" value="1440" />
     <option name="height" value="1040" />
@@ -295,12 +288,12 @@
       <workItem from="1560664827717" duration="28069000" />
       <workItem from="1560740295858" duration="2030000" />
       <workItem from="1560742836516" duration="2324000" />
-      <workItem from="1560759823918" duration="7753000" />
+      <workItem from="1560759823918" duration="8238000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="114973000" />
+    <option name="totallyTimeSpent" value="115458000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
