@@ -485,7 +485,7 @@ triggerSingleEmitter(smokeGroup, target, true)
 
 > 下列按键对应的坐标为three.js 中的右手坐标
 
-![1560688553568](D:\STUDY\web技术\person_project\airplane-game\droneWorld-master-cc\assets\1560688553568.png)
+![1560688553568](.\assets\1560688553568.png)
 
 + w: z轴数值加大，即前进
 + s: z轴数值减小，即后退
